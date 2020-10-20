@@ -77,7 +77,7 @@
                   <asp:LinkButton CssClass="footerlink" ID="LinkButton8" CausesValidation="false" runat="server">Publisher management</asp:LinkButton>
                   <asp:LinkButton CssClass="footerlink" ID="LinkButton9" CausesValidation="false" runat="server">Book inventory</asp:LinkButton>
                   <asp:LinkButton CssClass="footerlink" ID="LinkButton10" CausesValidation="false" runat="server">Book issuing</asp:LinkButton>
-                  <asp:LinkButton CssClass="footerlink" ID="LinkButton11" CausesValidation="false" runat="server">Member management</asp:LinkButton>
+                  <asp:LinkButton CssClass="footerlink" ID="LinkButton11" runat="server">Member management</asp:LinkButton>
            </div>
        </footer>
         </div>
